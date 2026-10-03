@@ -4,9 +4,9 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Таймер обратного отсчёта с выбором даты
-- Создание и обработка `Promise`
-- Уведомления об успешном и отклонённом промисе
+- Countdown timer with date selection
+- Creating and handling a `Promise`
+- Notifications for resolved and rejected promises
 
 ## Technologies
 
